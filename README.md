@@ -1,10 +1,10 @@
 ## Olá, mundo!
 Gosto de criar pequenos projetos e soluções fullstack. Atualmente tenho algumas funções:
 
+##### 👨‍💻 Dev @ procurando oportunidades!
 ##### 🚩 Membro @ [Soberana](https://soberanatv.github.io)
 ##### 👨‍🎤 Produtor de Conteúdo @ [Diversas Redes](https://linktr.ee/azhariel)
 ##### 👨‍⚖️ Advogado Criminalista @ [Campos & Zambon](https://camposezambon.adv.br/)
-##### 👨‍💻 Dev @ procurando oportunidades!
 
 [<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">](https://twitch.tv/azhariel) [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/c/azhariel) [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/azhariel) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/azhariel.tv) [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">](https://discord.gg/UQZpTQbCT4)
 
