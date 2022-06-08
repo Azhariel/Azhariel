@@ -98,15 +98,10 @@ I find it very easy to socialize and work with teams, give and receive feedback 
 
   
 
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=azhariel&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=azhariel&style=for-the-badge&label=👁️+Views&color=blueviolet)  
   
 
 <br/>  
-
-
-<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
