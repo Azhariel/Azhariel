@@ -1,6 +1,6 @@
 ## Hey 🥰, I'm Renan Braga!  
 # 💫 About Me:
-🚀 I'm currently working at Luby Software<br><br>🌱 I'm learning React Native<br><br>🚩 I'm a member at Soberana<br><br>🎨 In my spare time, I enjoy using design tools like Photoshop to create social media posts<br><br>👨‍💼 I'm also a criminal justice lawyer, but I don't practice currently
+🚀 I'm currently working at Luby Software<br>🌱 I'm learning React Native<br>🚩 I'm a member at Soberana<br>🎨 In my spare time, I enjoy using design tools like Photoshop to create social media posts<br>👨‍💼 I'm also a criminal justice lawyer, but I don't practice currently
 
 
 ## 🌐 Socials:
