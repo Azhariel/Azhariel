@@ -1,6 +1,7 @@
 ## Renan 'Azhariel' Braga
 # 💫 About Me
-🚀 I'm currently working at Serasa Experian<br>🌱 I'm learning Java<br>🚩 I'm a member at [Soberana](https://github.com/Soberana-TV)<br>🎨 In my spare time, I enjoy using design tools like Photoshop to create social media posts<br>👨‍💼 I'm also a criminal justice lawyer, but I don't practice currently
+Graduated in Law and currently studying Systems Analysis and Development. Fullstack developer with expertise in JavaScript and TypeScript, passionate about creating innovative projects with social impact.
+As an autistic person, I value diversity and bring a differentiated and attentive look to detail in all my activities.
 
 
 ## 🌐 Socials
