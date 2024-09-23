@@ -1,7 +1,7 @@
 ## Renan 'Azhariel' Braga
 # 💫 About Me
-Graduated in Law and currently studying Systems Analysis and Development. Fullstack developer with expertise in JavaScript and TypeScript, passionate about creating innovative projects with social impact.
-As an autistic person, I value diversity and bring a differentiated and attentive look to detail in all my activities.
+Currently studying Systems Analysis and Development as my second bachelor's degree. Fullstack developer with expertise in JavaScript and TypeScript, passionate about creating innovative and socially impactful projects.
+As an autistic person, I value diversity and bring a differentiated and attentive perspective to details in all my activities.
 
 
 ## 🌐 Socials
