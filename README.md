@@ -2,9 +2,9 @@
 
 ### 💫 About Me
 
-Welcome to my little corner of GitHub!
+*You step out of the bustling digital metropolis and push open the heavy oak doors of a quiet, warmly lit tavern. The scent of fresh coffee, old parchment, and worn leather fills the air. From behind a workbench cluttered with character sheets, open spellbooks, and a tangle of audio cables connecting to glowing synthesizers, a figure looks up and smiles. "Welcome, traveler," they say, gesturing to a seat. "Stay a while, and let me show you what I've been crafting..."*
 
-I'm a developer from Brazil 🇧🇷 who loves turning late-night hyperfixations into tools that actually help people. I recently wrapped up my second bachelor's degree in Systems Analysis and Development, and these days, I'm working as a **QA Tester at Epic Games**.
+I'm a developer from Brazil who loves turning late-night hyperfixations into tools that actually help people. I recently wrapped up my second bachelor's degree in Systems Analysis and Development, and these days, I'm working as a **QA Tester at Epic Games**.
 
 As an autistic developer ♾️, I naturally zero in on the small details and love finding structured solutions to messy problems. When I'm off the clock, I spend my time building free, open-source projects—usually tools designed to make Tabletop RPGs smoother or to help out with music production. I strongly believe in creating software that is accessible, inclusive, and fun to use.
 
